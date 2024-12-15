@@ -26,4 +26,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INHA-JEONG&layout=compact&bg_color=60,e8ccff,b8d7ff&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    
+    ![mazandi profile](http://mazandi.herokuapp.com/api?handle={INHA-JEONG}&theme=cold)
