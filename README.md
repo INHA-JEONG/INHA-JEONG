@@ -53,7 +53,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/INHA-JEONG/INHA-JEONG/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
