@@ -2,6 +2,14 @@
 
 ###
 
+###
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{j-inha}?pet-id=1" width="1000" height="120"/>
+</a>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -54,13 +62,7 @@
 
 
 
-###
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{j-inha}?pet-id=1" width="1000" height="120"/>
-</a>
-
-###
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{j-inha}"/>
