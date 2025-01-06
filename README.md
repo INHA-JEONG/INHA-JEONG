@@ -21,7 +21,7 @@
 
 <div>
 
-<p align="left"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-inha&show_icons=true&theme=transparent) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-inha&show_icons=true&theme=transparent) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-inha&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=horangipang)](https://solved.ac/horangipang/)
 
