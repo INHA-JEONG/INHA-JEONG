@@ -19,8 +19,7 @@
   
 <h3 align="left">🔥   My Stats :</h3>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={horangipang})](https://solved.ac/{horangipang})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj={horangipang})](https://solved.ac/{horangipang})
 
 
 <div>
