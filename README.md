@@ -2,13 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20INHA's%20GitHub&fontAlign=64&fontSize=50&descAlign=38&descAlignY=58&animation=fadeIn)
 
 
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{j-inha}?pet-id=1" width="1000" height="120"/>
-</a>
-
----
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">I'm Inha<br><br>- 🔭 I’m working as Design Team<br>- 📚 I'm currently learning C#/Unity <br>- ⚡ In my free time I study C#</p>
 
