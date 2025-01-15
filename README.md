@@ -3,7 +3,7 @@
 
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm Inha<br><br>- 🔭 I’m working as Design Team<br>- 📚 I'm currently learning C#/Unity <br>- ⚡ In my free time I study C#</p>
+<p align="left">I'm Inha<br><br>- 🔭 I’m working as Design Team<br>- 📚 I'm currently learning C++/Python/C#/Unity <br>- ⚡ In my free time I draw an illustration</p>
 
 <h2 align="left">🛠 Language and tools
 
